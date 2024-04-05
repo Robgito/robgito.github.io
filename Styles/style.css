@@ -1,0 +1,31 @@
+.navbar-fix {
+	position: fixed;
+	width: 100vw;
+}
+
+.img-fix {
+	box-shadow: 0 5px 20px gray;
+}
+
+.title-fix {
+	font-size: 7rem;
+	font-family: "VALORANT", sans-serif;
+}
+
+.title-fix2 {
+	font-size: 2rem;
+	font-family: "VALORANT", sans-serif;
+}
+
+.bg-fix {
+	background-color: orange;
+}
+
+#home {
+	height: 80vh;
+}
+
+#vorm {
+	background: linear-gradient(-45deg, transparent 30px, #ddd 0) bottom left;
+	background-repeat: no-repeat;
+}
